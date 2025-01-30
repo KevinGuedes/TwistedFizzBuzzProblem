@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwistedFizzBuzz.StandardPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwistedFizzBuzz.AlternativeProblem", "TwistedFizzBuzz.AlternativeProblem\TwistedFizzBuzz.AlternativeProblem.csproj", "{D541E015-C908-46CB-976C-03D1A92141DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwistedFizzBuzz.OtherProblems", "TwistedFizzBuzz.OtherProblems\TwistedFizzBuzz.OtherProblems.csproj", "{D8C32760-667A-41B2-BFEA-13D23DC2B61B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D541E015-C908-46CB-976C-03D1A92141DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D541E015-C908-46CB-976C-03D1A92141DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D541E015-C908-46CB-976C-03D1A92141DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C32760-667A-41B2-BFEA-13D23DC2B61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C32760-667A-41B2-BFEA-13D23DC2B61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C32760-667A-41B2-BFEA-13D23DC2B61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C32760-667A-41B2-BFEA-13D23DC2B61B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
